@@ -1,14 +1,12 @@
 package mobile;
 
 import io.appium.java_client.android.AndroidDriver;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.file.Paths;
-import java.util.Set;
 
 public class MobileBaseTest {
 
